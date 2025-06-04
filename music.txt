@@ -1,2 +1,6 @@
 im listening music today
+<<<<<<< HEAD
 i dont like music
+=======
+Imagine Dragons cool music, Masb1s
+>>>>>>> 2c89931 (small update music)
